@@ -1,0 +1,171 @@
+@font-face {
+    font-family:'alpina';
+    src: url('alpina-webfont.woff2') format('woff2'),
+         url('alpina-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body{
+  background-color: #000000;
+}
+
+.instructions{
+  font-size: 20px;
+  font-family: "alpina";
+  bottom: 0;
+  color: #e0872f;
+  right: 26px;
+  top: 25px;
+  z-index: 20;
+  float: right;
+}
+
+.title1{
+  	transform: rotate(-90deg);
+    position: absolute;
+    font-size: 30px;
+    width: 600px;
+    height: 100%;
+    left: 53%;
+    bottom: 2%;
+  
+}
+
+.didion1{
+    font-family: "alpina";
+    font-size: 15px;
+    position: absolute;
+    left: 21%;
+}
+
+.title2{
+  	transform: rotate(-90deg);
+    position: absolute;
+    font-size: 40px;
+    width: 700px;
+    height: 100%;
+    left: 50%;
+    bottom: 2%;
+}
+
+.didion2{
+    font-family: "alpina";
+    font-size: 14px;
+    position: absolute;
+    left: 32%;
+}
+
+.title3{
+  	transform: rotate(-90deg);
+    position: absolute;
+    font-size: 30px;
+    width: 650px;
+    height: 100%;
+    left: 53%;
+    bottom: 2%;
+}
+
+.didion3{
+    font-family: "alpina";
+    font-size: 14px;
+    position: absolute;
+    left: 22%;
+}
+
+
+.title4{
+  	transform: rotate(-90deg);
+    position: absolute;
+    font-size: 30px;
+    width: 550px;
+    height: 100%;
+    left: 53%;
+    bottom: 2%;
+}
+
+.didion4{
+    font-family: "alpina";
+    font-size: 15px;
+    position: absolute;
+    left: 24%;
+}
+
+
+.book1{
+    font-family: "alpina";
+    font-size: 50px;
+    position: absolute;
+    color: #000000;
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    bottom: 0;
+    width: 60px;
+    height: 600px;
+    left: 420px; 
+}
+
+.book2{
+    font-family: "alpina";
+    font-size: 70px;
+    position: absolute;
+    color: #000000;
+    background-color: #FFFAF0;
+    padding: 20px;
+    margin: 20px;
+    bottom: 0;
+    width: 100px;
+    height: 700px;
+    left: 540px;   
+}
+
+.book3{
+    font-family: "alpina";
+    font-size: 50px;
+    position: absolute;
+    color: #000000;
+    background-color: #FAEBD7;
+    padding: 20px;
+    margin: 20px;
+    bottom: 0;
+    width: 60px;
+    height: 650px;
+    left: 700px;
+}
+
+.book4{
+    font-family: "alpina";
+    font-size: 50px;
+    position: absolute;
+    color: #000000;
+    background-color: #ffffff;
+    padding: 20px;
+    margin: 20px;
+    bottom: 0;
+    width: 60px;
+    height: 550px;
+    left: 820px;
+}
+
+.book1:hover{
+ transform: scale(1.05);
+}
+
+.book2:hover{
+ transform: scale(1.05);
+}
+
+.book3:hover{
+ transform: scale(1.05);
+}
+
+.book4:hover{
+ transform: scale(1.05);
+}
+
+
+
+
+
